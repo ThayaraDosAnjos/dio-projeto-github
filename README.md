@@ -1,2 +1,2 @@
 # dio-projeto-github
-Meu primeiro repositório - Desafio de projeto Git/GitHub
+Meu primeiro  projeto - Desafio de código Git/GitHub
