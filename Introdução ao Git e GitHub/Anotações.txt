@@ -1,0 +1,79 @@
+Comandos GIT e GITHUB
+
+Windows/Linux: ls 
+(para mostrar as lista de pasta dentro do sistema e se situar dentro do sistema operacional)
+
+Windowns/Linux:  cd  "nome da pasta"
+(comando para navegar entre as pastas )
+"/"  (para dar um caminho especifico dentro da pasta)
+
+windows: cd ..
+(para voltar um nível dentro da pasta)
+
+Windows: dir -a OU ls -a
+(Para mostrar ou listar uma pasta OCULTA)
+
+Windows: Control L 
+(Para limpar da tela )
+
+TAB:  (para completar uma conjunto de palavras)
+
+Windows: mkdir " nome da pasta"
+(Para criar uma pasta)
+
+Windows:  echo   "nome da pasta"   >   "nomedoarquivo.txt"
+(Para criar um arquivo dentro da pasta no terminal Git)
+
+Windows: mv  "nome do arquivo"
+(Para mover o arquivo para um determinado repositório)
+
+Windows: del  "nome do arquivo"
+(para deletar um arquivo )
+
+Windows: rmdir "nome da pasta" /S/Q
+(Para deletar todo conteúdo dentro da pasta e do arquivo)
+
+Windows: Git Init 
+(Para inciar o Git dentro da pasta, para poder gerenciar os códigos e vercionar)
+
+Windows: Git status
+(Para poder ver o status, o que está acontecendo dentro do código monitorando o status dos arquivos)
+
+Windows: Git Add
+(Adiciona os arquivos para a área de STAGED)
+
+Windows: Git Add *
+(Para adicionar todos os conteúdo e arquivo da pasta modificados e mover para STAGED)
+
+Windows: Git restore --staged "nome do arquivo
+(Para retirar os arquivos da área de STAGED e "voltar" retornar para área de UNMODIFIED)"
+
+Windows: Git Commit -m  "descrever o nome do commit"
+(Serve para criar o commit)
+
+Windows: Git remote add ORIGIN "link Github"
+(Para passar o repositório LOCAL para o repositório REMOTO dentro do Github )
+
+Windows: Git remote -v 
+(Mostra a LISTA de repositório REMOTOS que tem tem cadastrados)
+
+Windows: Git Push 
+(Empurra o repositório LOCAL para o repositório REMOTO dentro do Github)
+
+Windows: Git Pull 
+(Empurra o repositório REMOTO para a máquina LOCAL)
+
+Windows: Git Clone "Link do Git SSH ou HTML"
+(Para clonar um repositório)
+
+Windows: Git Config --list
+(Para listar todas as configurações que consta no meu GIT)
+
+CONFIGURAÇÕES INICIAS DO GIT 
+
+Windows: Git config --global user.email "meu email cadastrado "
+(Para cadastrar o login de acesso)
+
+Windows: Git config --global user.name "úsuario cadastrado"
+(Para cadastrar o nome de acesso ao usuário)
+
